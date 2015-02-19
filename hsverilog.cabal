@@ -3,8 +3,8 @@
 
 name:                hsverilog
 version:             0.1.0
-synopsis:            Verilog DSL and Simulator
-description:         Verilog DSL and Simulator
+synopsis:            Synthesizable Verilog DSL supporting for multiple clock and reset
+description:         Synthesizable Verilog DSL supporting for multiple clock and reset
 license:             BSD3
 license-file:        LICENSE
 author:              Junji Hashimoto
